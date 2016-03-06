@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="graphInterval">
+        <item>Every 1 minute</item>
+        <item>Every 20 minutes</item>
+        <item>Every 60 minutes</item>
+    </string-array>
+    
+    <string-array name="graphIntervalValues">
+        <item>1</item>
+        <item>20</item>
+        <item>60</item>
+    </string-array>
+    
+    <string-array name="graphResolution">
+        <item>5 dots</item>
+        <item>10 dots</item>
+        <item>25 dots</item>
+    </string-array>
+
+    <string-array name="graphResolutionValues">
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+    </string-array>
+    
+</resources>

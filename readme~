@@ -1,0 +1,2 @@
+This repository includes the backend implementation of an Android application that acts as a front–end of a Wireless Sensor Network (WSN). To this end, the app will connect through a publish/subscribe protocol (in our case MQTT) to the server responsible for sending the messages. After connection established, it will be able to subscribe to a specific channel for the reception of such events. In addition, the application must store the activations produced by each sensor as a historical record.
+

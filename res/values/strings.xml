@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Sensor Real Time APP</string>
+    <string name="connection_status">Connection status:</string>
+    <string name="no_elements">Sensors have not been received.</string>
+
+    <string name="desc_welcome">Welcome image</string>
+    <string name="desc_connected">Connection status</string> 
+    <string name="desc_info">Net info</string>
+       
+    <string name="custom_listview">Sensor Real Time</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="preferences_one">1</string>
+    <string name="preferences_twenty">20</string>
+    <string name="preferences_sixty">60</string>
+    <string name="preferences_five">5</string>
+    <string name="preferences_ten">10</string>
+    <string name="preferences_twentyfive">25</string>
+    
+    <string name="target">Your Device Target:</string>
+</resources>
